@@ -26,6 +26,9 @@ Probabilistic models predicting churn and CLV in scenarios where transactions ha
   * **Beta-Geometric (BG)** (2007) - [[doi]](https://doi.org/10.1002/dir.20074) [[pdf]](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf)
     > Fader, P. S., &amp; Hardie, B. G. S. (2007). How to Project Customer Retention. Journal of Interactive Marketing, 21(1), 76–90.
 
+  * **Usage-Renewal Model** (2013) - [[doi]](https://doi.org/10.1287/mksc.2013.0786) [[pdf]](https://www.hbs.edu/ris/PublicationFiles/ascarza_hardie_mktsci_13_68c64a95-bdae-4310-8330-954da804c2b8.pdf)
+    > Ascarza, E., &amp; Hardie, B.G.S. (2013). A Joint Model of Usage and Churn in Contractual Settings. Marketing Science, 32(4), 570-590.
+
   * **Beta-discrete-Weibull (BdW)** (2018) - [[doi]](https://doi.org/10.1016/j.intmar.2018.01.002) [[pdf]](https://journals.sagepub.com/doi/pdf/10.1016/j.intmar.2018.01.002)
     > Fader, P. S., Hardie, B. G. S., Liu, Y., Davin, J., &amp; Steenburgh, T. (2018). “How to Project Customer Retention” Revisited: The Role of Duration Dependence. Journal of Interactive Marketing, 43, 1–16.
 
