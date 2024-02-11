@@ -95,7 +95,8 @@ List of model implemenations and software tools in various programming languages
 
 ### Python
 
-  * [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - Python implementation of BTYD models, namely BG, BG/BB, GG, MBG and Pareto/NBD
+  * [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - Python implementation of BTYD models, namely BG, BG/BB, GG, MBG and Pareto/NBD (not maintained, succeded by PyMC-Marketing)
+  * [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing) - Bayesian marketing toolbox in PyMC. Media Mix (MMM), customer lifetime value (CLV), buy-till-you-die (BTYD) models and more.
 
 ### R
 
